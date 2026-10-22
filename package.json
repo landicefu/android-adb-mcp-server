@@ -40,15 +40,14 @@
   },
   "homepage": "https://github.com/landicefu/android-adb-mcp-server#readme",
   "dependencies": {
-    
     "@modelcontextprotocol/sdk": "^1.6.1",
-    "sharp": "^0.33.5"
+    "sharp": "^0.35.5"
   },
   "devDependencies": {
     "@types/node": "^22.13.7",
     "typescript": "^5.8.2"
   },
   "engines": {
-    "node": ">=16.0.0"
+    "node": ">=24.22.1"
   }
 }
