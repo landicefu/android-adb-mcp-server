@@ -1,6 +1,6 @@
 {
   "name": "@landicefu/android-adb-mcp-server",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "This MCP server provides tools for interacting with Android devices through the Android Debug Bridge (ADB). It enables AI assistants to perform common Android development and testing operations.",
   "main": "build/index.js",
   "type": "module",
